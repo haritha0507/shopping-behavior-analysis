@@ -1,7 +1,7 @@
 # Shopping Behavior Analysis
 
 ## Project Overview
-This project analyzes customer shopping behavior using Python and exploratory data analysis techniques.
+This project focuses on analyzing customer shopping behavior using Python-based data analysis techniques to uncover patterns, trends, and insights that support data-driven decision-making.
 
 ## Tools Used
 - Python
